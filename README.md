@@ -1,1 +1,0 @@
-This project includes React, GraphQL, DatoCMS, React Router and Sass
